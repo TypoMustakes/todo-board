@@ -1,0 +1,7 @@
+# Ignorar arquivos temporários do sistema
+.DS_Store
+*.swp
+*~
+
+# O cache local de tarefas NÃO deve ir para o git
+.cache/
