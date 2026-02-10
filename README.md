@@ -36,7 +36,7 @@ Management
 
 * **todo credits** — Show author and project info
 ---
-### 📁 Repository Structure
+# 📁 Repository Structure
 ```
 todo-board/
 ├── todo
@@ -45,7 +45,8 @@ todo-board/
 ```
 ---
 This tool is a space for me to learn and improve my scripting skills. Feel free to explore, take inspiration, or adapt it to your own setup.
-🤝 Credits
+---
+## 🤝 Credits
 
-Built by Hocks
-Refined by TypoMustakes
+Built by **[Hocks](https://github.com/Hocksz)**
+Refined by **[TypoMustakes](https://github.com/TypoMustakes)**
