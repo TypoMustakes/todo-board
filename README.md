@@ -1,20 +1,22 @@
-### Todo Board — Minimalist Task Manager
+# Todo Board — Minimalist Task Manager
 
 Todo Board is a lightweight, terminal-based task manager. It was designed for those who value a clean, distraction-free workflow and want to manage their daily tasks without leaving the command line.
 
-The core philosophy of this project is practicality and minimalism. Instead of complex interfaces, it uses simple ASCII frames and ANSI colors to keep your list organized, fast, and intuitive.
+The core philosophy of this project is practicality and minimalism. Instead of complex interfaces, it uses simple ASCII frames and ANSI colors to keep your list organized, fast, and intuitive 
+
 ---
 ### 🚀 Installation
 
 Since it's now a standalone script, installation is straightforward:
-Bash
+```Bash
 
 git clone https://github.com/Hocksz/todo-board
 cd todo-board
 chmod +x todo
 sudo mv todo /usr/local/bin/
+```
 ---
-### ⌨️ Commands & Usage
+# ⌨️ Commands & Usage
 
 Basic Interaction
 
