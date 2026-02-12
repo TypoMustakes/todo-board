@@ -18,9 +18,10 @@ TITLE_FILE="$TODO_DIR/title"
 
 help() {
     echo -e "\n  ${YELLOW}COMMANDS:${RESET}"
-    echo -e "  ${CYAN}todo [Task]${RESET}          - Add task"
+    echo -e "  ${CYAN}todo [Task]${RESET}         - Add task"
     echo -e "  ${CYAN}todo [Title] Task${RESET}   - Add task with category"
     echo -e "  ${CYAN}todo${RESET}                - View board"
+    echo -e "  ${CYAN}todo watch${RESET}          - Draw board and watch for updates. Update with SIGUSR1"
     echo -e "  ${CYAN}todo del X${RESET}          - Remove task X"
     echo -e "  ${CYAN}todo clear${RESET}          - Clear all"
     echo -e "  ${CYAN}todo rename \"Name\"${RESET}  - Rename board"
